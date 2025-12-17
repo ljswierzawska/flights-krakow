@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>The Bad Air Website</title>
+    <title>The Kraków Flights Website</title>
     <style>
         body {
             margin: 0;
@@ -35,18 +35,70 @@
             background-color: #f0f1ff;
             border-top: solid white 5px;
         }
+
+        .plane {
+    font-size: 2.5em;
+    position: absolute;
+    top: 120px;
+    left: -10%;
+    animation: fly 12s linear infinite;
+    opacity: 0.8;
+}
+
+@keyframes fly {
+    from { left: -10%; }
+    to { left: 110%; }
+}
+.cloud {
+    position: absolute;
+    font-size: 4em;
+    opacity: 0.15;
+    animation: drift 40s linear infinite;
+}
+
+.cloud.one { top: 80px; left: -10%; }
+.cloud.two { top: 200px; left: -20%; animation-duration: 60s; }
+
+@keyframes drift {
+    from { left: -20%; }
+    to { left: 120%; }
+}
+.hero {
+    background-image: url("https://images.unsplash.com/photo-1670166819528-aadfddc48070?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==");
+    background-size: cover;
+    background-position: center;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    margin-bottom: 1.5em;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.hero h1 {
+    background: rgba(0,0,0,0.45);
+    color: white;
+    padding: 0.6em 1em;
+    font-size: 2.6em;
+    border-radius: 10px;
+}
     </style>
 </head>
 <body>
+    <div class="plane">✈️</div>
+    <div class="cloud one">☁️</div>
+    <div class="cloud two">☁️</div>
+    <div class="hero"></div>
     <div class="container">
-        <h1>🌥️ The bad air website 🏭</h1>
-        <h3>Major cities of the world, ranked by their air quality</h3>
-        <p>The table below auto-updates every hour. Air quality is scored using the <a href="https://www.airnow.gov/aqi/aqi-basics/">US air quality index</a>.</p>
+        <h1>🛬 🌥️ Flights Schedule at Kraków-Balice Airport 🇵🇱 🛫</h1>
+        <h3>Departures and arrivals at Kraków-Balice Airport on the same day.</h3>
+        <p>The table below auto-updates every hour. The information is retrived from <a href="https://krakowairport.pl/pl">Kraków Airport</a>.</p>
         <div class="graphic">
           <iframe title="Arrivals and Departures from Kraków-Balice Airport" aria-label="Table" id="datawrapper-chart-XTYpw" src="https://datawrapper.dwcdn.net/XTYpw/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="5564" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
         </div>
     </div>
     <div id="footer">
-        <p>This website was made for a tutorial on <a href="https://jonathansoma.com">auto-updating websites</a>.</p>
+        <p>This website was made based on a tutorial on <a href="https://jonathansoma.com">auto-updating websites</a>.</p>
     </div>
 </html>
