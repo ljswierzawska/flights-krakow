@@ -8,20 +8,22 @@
             margin: 0;
             background-color: aliceblue;
         }
-        /* Make the page 700px wide, centered */
+        
         .container {
-            width: 700px;
+            width: 90%;
+            max-width: 1400px;
             margin: 4em auto;
         }
-        /* Use a nice font */
+        
         body {
             font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         }
 
         h1 {
             text-align: center;
-            font-size: 3em;
-            margin: 2em 0;
+            font-size: 2em;
+            margin: 1em 0;
+            white-space: nowrap;
         }
 
         .graphic {
@@ -36,33 +38,29 @@
             border-top: solid white 5px;
         }
 
-        .plane {
+        .side-plane {
+    position: fixed;         
     font-size: 2.5em;
-    position: absolute;
-    top: 120px;
-    left: -10%;
-    animation: fly 12s linear infinite;
     opacity: 0.8;
+    animation: vertical-fly 6s ease-in-out infinite alternate;
 }
 
-@keyframes fly {
-    from { left: -10%; }
-    to { left: 110%; }
-}
-.cloud {
-    position: absolute;
-    font-size: 4em;
-    opacity: 0.15;
-    animation: drift 40s linear infinite;
+.side-plane.left {
+    left: 10px;              
+    top: 20px;                
 }
 
-.cloud.one { top: 80px; left: -10%; }
-.cloud.two { top: 200px; left: -20%; animation-duration: 60s; }
-
-@keyframes drift {
-    from { left: -20%; }
-    to { left: 120%; }
+.side-plane.right {
+    right: 10px;             
+    top: 100px;               
+    animation-duration: 8s;  
 }
+
+@keyframes vertical-fly {
+    from { transform: translateY(0); }
+    to { transform: translateY(300px); } 
+}
+
 .hero {
     background-image: url("https://images.unsplash.com/photo-1670166819528-aadfddc48070?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==");
     background-size: cover;
@@ -86,11 +84,10 @@
     </style>
 </head>
 <body>
-    <div class="plane">✈️</div>
-    <div class="cloud one">☁️</div>
-    <div class="cloud two">☁️</div>
     <div class="hero"></div>
     <div class="container">
+    <div class="side-plane left">✈️</div>
+    <div class="side-plane right">✈️</div>
         <h1>🛬 🌥️ Flights Schedule at Kraków-Balice Airport 🇵🇱 🛫</h1>
         <h3>Departures and arrivals at Kraków-Balice Airport on the same day.</h3>
         <p>The table below auto-updates every hour. The information is retrived from <a href="https://krakowairport.pl/pl">Kraków Airport</a>.</p>
