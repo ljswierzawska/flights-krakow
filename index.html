@@ -24,6 +24,12 @@
             font-size: 2em;
             margin: 1em 0;
             white-space: nowrap;
+        
+        }
+        .container h3, .container p {
+            text-align: center;    
+            margin: 0.5em 0;       
+            font-weight: normal;    
         }
 
         .graphic {
@@ -38,11 +44,11 @@
             border-top: solid white 5px;
         }
 
-        .side-plane {
-    position: fixed;         
+.side-plane {
+    position: absolute;         
     font-size: 2.5em;
     opacity: 0.8;
-    animation: vertical-fly 6s ease-in-out infinite alternate;
+    animation: bounce-vertical 6s ease-in-out infinite alternate;
 }
 
 .side-plane.left {
@@ -56,9 +62,10 @@
     animation-duration: 8s;  
 }
 
-@keyframes vertical-fly {
-    from { transform: translateY(0); }
-    to { transform: translateY(300px); } 
+@keyframes bounce-vertical {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(500px); } 
+    100% { transform: translateY(0); }
 }
 
 .hero {
@@ -85,9 +92,10 @@
 </head>
 <body>
     <div class="hero"></div>
-    <div class="container">
     <div class="side-plane left">✈️</div>
     <div class="side-plane right">✈️</div>
+
+    <div class="container">
         <h1>🛬 🌥️ Flights Schedule at Kraków-Balice Airport 🇵🇱 🛫</h1>
         <h3>Departures and arrivals at Kraków-Balice Airport on the same day.</h3>
         <p>The table below auto-updates every hour. The information is retrived from <a href="https://krakowairport.pl/pl">Kraków Airport</a>.</p>
