@@ -5,7 +5,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 08:05,LUXEMBOURG (LUX),LG 5741,,Arrival,
 08:10,HELSINKI (HEL),AY 1161,,Arrival,
 08:10,ROME FUMICINO (FCO),W4 2032,,Arrival,
-08:20,ISTANBUL (IST),TK 1271,,Arrival,
+08:20,ISTANBUL (IST),TK 1271,Canceled,Arrival,Cancelled
 08:35,BELGRADE (BEG),JU 156,,Arrival,
 08:45,PRAGUE (PRG),FR 4069,,Arrival,
 08:45,TOULOSE (TLS),FR 9950,,Arrival,
@@ -152,7 +152,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 08:05,LUXEMBOURG (LUX),LG 5741,,Departure,
 08:10,HELSINKI (HEL),AY 1161,,Departure,
 08:10,ROME FUMICINO (FCO),W4 2032,,Departure,
-08:20,ISTANBUL (IST),TK 1271,,Departure,
+08:20,ISTANBUL (IST),TK 1271,Canceled,Departure,Cancelled
 08:35,BELGRADE (BEG),JU 156,,Departure,
 08:45,PRAGUE (PRG),FR 4069,,Departure,
 08:45,TOULOSE (TLS),FR 9950,,Departure,
