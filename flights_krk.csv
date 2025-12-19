@@ -1,33 +1,25 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-22:10,GDAŃSK (GDN),FR 236,Expected 22:19,Arrival,
-22:50,PARIS» ORLY (ORY),LO 338,Expected 22:48,Arrival,
-22:55,AMSTERDAM (AMS),KL 1331,Expected 23:04,Arrival,
-22:55,FRANKFURT (FRA),LH 1370,,Arrival,
-23:10,BARCELONA (BCN),W6 2096,Expected 22:53,Arrival,
-23:20,BARI (BRI),FR 2965,,Arrival,
-23:25,DUBAI (DXB),FZ 1783,Expected 23:38,Arrival,
-23:35,OSLO TORP (TRF),FR 6217,,Arrival,
+23:10,BARCELONA (BCN),W6 2096,DIRECTED TO KATOWICE,Arrival,
+23:20,BARI (BRI),FR 2965,Flight delayed,Arrival,Delayed
+23:25,DUBAI (DXB),FZ 1783,Expected 23:43,Arrival,
+23:35,OSLO TORP (TRF),FR 6217,Expected 00:31,Arrival,
 23:35,MUNICH (MUC),LH 1626,Canceled,Arrival,Cancelled
 23:35,VIENNA (VIE),OS 683,,Arrival,
-23:35,OSLO GARDERMOEN (OSL),W6 2038,,Arrival,
-23:35,ROME FUMICINO (FCO),W6 2062,,Arrival,
+23:35,OSLO GARDERMOEN (OSL),W6 2038,Flight delayed,Arrival,Delayed
+23:35,ROME FUMICINO (FCO),W6 2062,Flight delayed,Arrival,Delayed
 23:50,WARSAW (WAW),LO 3911,,Arrival,
-23:55,ROME CIAMPINO (CIA),FR 1470,,Arrival,
-23:55,LONDON GATWICK (LGW),W6 2008,,Arrival,
-23:55,GENOA (GOA),W6 2028,,Arrival,
-22:10,GDAŃSK (GDN),FR 236,Expected 22:19,Departure,
-22:50,PARIS» ORLY (ORY),LO 338,Expected 22:48,Departure,
-22:55,AMSTERDAM (AMS),KL 1331,Expected 23:04,Departure,
-22:55,FRANKFURT (FRA),LH 1370,,Departure,
-23:10,BARCELONA (BCN),W6 2096,Expected 22:53,Departure,
-23:20,BARI (BRI),FR 2965,,Departure,
-23:25,DUBAI (DXB),FZ 1783,Expected 23:38,Departure,
-23:35,OSLO TORP (TRF),FR 6217,,Departure,
+23:55,ROME CIAMPINO (CIA),FR 1470,Expected 00:12,Arrival,
+23:55,LONDON GATWICK (LGW),W6 2008,Expected 00:29,Arrival,
+23:55,GENOA (GOA),W6 2028,Canceled,Arrival,Cancelled
+23:10,BARCELONA (BCN),W6 2096,DIRECTED TO KATOWICE,Departure,
+23:20,BARI (BRI),FR 2965,Flight delayed,Departure,Delayed
+23:25,DUBAI (DXB),FZ 1783,Expected 23:43,Departure,
+23:35,OSLO TORP (TRF),FR 6217,Expected 00:35,Departure,
 23:35,MUNICH (MUC),LH 1626,Canceled,Departure,Cancelled
 23:35,VIENNA (VIE),OS 683,,Departure,
-23:35,OSLO GARDERMOEN (OSL),W6 2038,,Departure,
-23:35,ROME FUMICINO (FCO),W6 2062,,Departure,
-23:50,WARSAW (WAW),LO 3911,,Departure,
-23:55,ROME CIAMPINO (CIA),FR 1470,,Departure,
-23:55,LONDON GATWICK (LGW),W6 2008,,Departure,
-23:55,GENOA (GOA),W6 2028,,Departure,
+23:35,OSLO GARDERMOEN (OSL),W6 2038,Flight delayed,Departure,Delayed
+23:35,ROME FUMICINO (FCO),W6 2062,Flight delayed,Departure,Delayed
+23:50,WARSAW (WAW),LO 3911,Canceled,Departure,Cancelled
+23:55,ROME CIAMPINO (CIA),FR 1470,Expected 00:12,Departure,
+23:55,LONDON GATWICK (LGW),W6 2008,Expected 00:29,Departure,
+23:55,GENOA (GOA),W6 2028,Canceled,Departure,Cancelled
