@@ -12,7 +12,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 09:35,EDINBURGH (EDI),EZY 3313,,Arrival,
 09:35,LIVERPOOL (LPL),EZY 3479,,Arrival,
 09:35,MADRID (MAD),FR 5356,,Arrival,
-09:40,TEL AVIV (TLV),LY 5119,Flight delayed,Arrival,Delayed
+09:40,TEL AVIV (TLV),LY5119,Flight delayed,Arrival,Delayed
 09:45,BELFAST (BFS),EZY 3053,,Arrival,
 09:45,COPENHAGEN (CPH),SK 1735,,Arrival,
 09:50,VILNIUS (VNO),W6 2040,,Arrival,
@@ -25,8 +25,8 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 10:55,OSLO TORP (TRF),FR 6217,,Arrival,
 11:00,TIRANA (TIA),FR 8403,,Arrival,
 11:05,LONDON GATWICK (LGW),EZY 8821,,Arrival,
-11:10,AMSTERDAM (AMS),KL 1323,,Arrival,
 11:10,DUBAI (DXB),FZ 1787,,Arrival,
+11:10,AMSTERDAM (AMS),KL 1323,,Arrival,
 11:20,SEVILLA (SVQ),FR 1312,,Arrival,
 11:20,SHARJAH (SHJ),G9 730,,Arrival,
 11:20,WARSAW (WAW),LO 3907,,Arrival,
@@ -103,7 +103,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 09:35,EDINBURGH (EDI),EZY 3313,,Departure,
 09:35,LIVERPOOL (LPL),EZY 3479,,Departure,
 09:35,MADRID (MAD),FR 5356,,Departure,
-09:40,TEL AVIV (TLV),LY 5119,Flight delayed,Departure,Delayed
+09:40,TEL AVIV (TLV),LY5119,Flight delayed,Departure,Delayed
 09:45,BELFAST (BFS),EZY 3053,,Departure,
 09:45,COPENHAGEN (CPH),SK 1735,,Departure,
 09:50,VILNIUS (VNO),W6 2040,,Departure,
@@ -116,8 +116,8 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 10:55,OSLO TORP (TRF),FR 6217,,Departure,
 11:00,TIRANA (TIA),FR 8403,,Departure,
 11:05,LONDON GATWICK (LGW),EZY 8821,,Departure,
-11:10,AMSTERDAM (AMS),KL 1323,,Departure,
 11:10,DUBAI (DXB),FZ 1787,,Departure,
+11:10,AMSTERDAM (AMS),KL 1323,,Departure,
 11:20,SEVILLA (SVQ),FR 1312,,Departure,
 11:20,SHARJAH (SHJ),G9 730,,Departure,
 11:20,WARSAW (WAW),LO 3907,,Departure,
