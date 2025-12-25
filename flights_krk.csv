@@ -1,10 +1,5 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-1:30 p.m,AMSTERDAM (AMS),KL 1325,Expected 13:43,Arrival,
-13:50,TRONDHEIM (TRD),DY 1038,Landed 13:29,Arrival,
-13:55,TEL AVIV (TLV),W6 2098,Expected 13:57,Arrival,
-14:00,VIENNA (VIE),OS 679,Expected 14:01,Arrival,
-14:20,WARSAW (WAW),LO 3905,,Arrival,
-14:30,VILNIUS (VNO),BT919,Flight delayed,Arrival,Delayed
+14:30,VILNIUS (VNO),BT919,Expected 14:50,Arrival,
 15:05,BASEL (BSL),W6 2030,Expected 14:57,Arrival,
 15:10,BUCHAREST BANESA (BBU),W6 2058,Expected 14:45,Arrival,
 15:45,WARSAW (WAW),LO 3919,,Arrival,
@@ -27,12 +22,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,LONDON GATWICK (LGW),W6 2008,,Arrival,
 23:55,ABU DHABI (AUH),W6 2094,,Arrival,
-1:30 p.m,AMSTERDAM (AMS),KL 1325,Expected 13:43,Departure,
-13:50,TRONDHEIM (TRD),DY 1038,Landed 13:29,Departure,
-13:55,TEL AVIV (TLV),W6 2098,Expected 13:57,Departure,
-14:00,VIENNA (VIE),OS 679,Expected 14:01,Departure,
-14:20,WARSAW (WAW),LO 3905,,Departure,
-14:30,VILNIUS (VNO),BT919,Flight delayed,Departure,Delayed
+14:30,VILNIUS (VNO),BT919,Expected 14:50,Departure,
 15:05,BASEL (BSL),W6 2030,Expected 14:57,Departure,
 15:10,BUCHAREST BANESA (BBU),W6 2058,Expected 14:45,Departure,
 15:45,WARSAW (WAW),LO 3919,,Departure,
