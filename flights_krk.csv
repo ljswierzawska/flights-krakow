@@ -1,7 +1,7 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 07:55,HELSINKI (HEL),AY 1161,,Arrival,
 08:00,STOCKHOLM ARLANDA (ARN),FR 4626,,Arrival,
-08:10,TEL AVIV (TLV),LY 5119,,Arrival,
+08:10,TEL AVIV (TLV),LY 5119,Expected 08:28,Arrival,
 08:20,ISTANBUL (IST),TK 1271,,Arrival,
 08:25,ROME CIAMPINO (CIA),FR 082,,Arrival,
 08:40,ANTALIA (AYT),XQ 432,,Arrival,
@@ -118,7 +118,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:55,ABU DHABI (AUH),W6 2094,,Arrival,
 07:55,HELSINKI (HEL),AY 1161,,Departure,
 08:00,STOCKHOLM ARLANDA (ARN),FR 4626,,Departure,
-08:10,TEL AVIV (TLV),LY 5119,,Departure,
+08:10,TEL AVIV (TLV),LY 5119,Expected 08:28,Departure,
 08:20,ISTANBUL (IST),TK 1271,,Departure,
 08:25,ROME CIAMPINO (CIA),FR 082,,Departure,
 08:40,ANTALIA (AYT),XQ 432,,Departure,
