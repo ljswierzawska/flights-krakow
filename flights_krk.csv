@@ -1,6 +1,6 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 08:10,HELSINKI (HEL),AY 1161,,Arrival,
-08:15,PAPHOS (PFO),FR 5086,,Arrival,
+08:15,PAPHOS (PFO),FR 5086,Expected 08:25,Arrival,
 08:35,MALTA (MLA),FR 8795,,Arrival,
 08:40,MRSILLE (MRS),FR 5413,,Arrival,
 08:40,ANTALIA (AYT),XQ 432,,Arrival,
@@ -110,7 +110,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,LONDON GATWICK (LGW),W6 2008,,Arrival,
 08:10,HELSINKI (HEL),AY 1161,,Departure,
-08:15,PAPHOS (PFO),FR 5086,,Departure,
+08:15,PAPHOS (PFO),FR 5086,Expected 08:25,Departure,
 08:35,MALTA (MLA),FR 8795,,Departure,
 08:40,MRSILLE (MRS),FR 5413,,Departure,
 08:40,ANTALIA (AYT),XQ 432,,Departure,
