@@ -1,21 +1,16 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-17:00,STOCKHOLM ARLANDA (ARN),FR 6692,Expected 17:21,Arrival,
-17:00,AMSTERDAM (AMS),KL 1327,Canceled,Arrival,Cancelled
-17:05,EAST MIDLANDS (EMA),LS 3011,Landed 16:52,Arrival,
-17:10,TALLINN (TLL),W6 2046,Landed 17:10,Arrival,
-17:30,WARSAW (WAW),LO 3923,Expected 17:28,Arrival,
-18:00,BARI (BRI),FR 2723,Expected 17:38,Arrival,
-18:00,OSLO GARDERMOEN (OSL),W6 2034,Expected 17:58,Arrival,
+18:00,BARI (BRI),FR 2723,Landed 17:33,Arrival,
+18:00,OSLO GARDERMOEN (OSL),W6 2034,Landed 17:54,Arrival,
 18:20,OSLO TORP (TRF),FR 6311,Flight delayed,Arrival,Delayed
-18:40,BOLOGNA (BLQ),FR 5439,Flight delayed,Arrival,Delayed
-18:40,FRANKFURT (FRA),LH 1368,Expected 18:26,Arrival,
-18:45,MANCHESTER (MAN),LS 949,Expected 19:00,Arrival,
+18:40,BOLOGNA (BLQ),FR 5439,Expected 18:39,Arrival,
+18:40,FRANKFURT (FRA),LH 1368,Expected 18:28,Arrival,
+18:45,MANCHESTER (MAN),LS 949,Expected 19:01,Arrival,
 18:50,AMSTERDAM (AMS),KL 1329,Canceled,Arrival,Cancelled
 19:05,PORTO (OPO),FR 3048,Expected 18:26,Arrival,
 19:30,DUSSELDORF (DUS),EW 9732,Flight delayed,Arrival,Delayed
 19:30,BELGRADE (BEG),JU 158,,Arrival,
-19:35,MALTA (MLA),FR 7114,,Arrival,
-19:50,PARIS» (CDG),EJU 4669,,Arrival,
+19:35,MALTA (MLA),FR 7114,Expected 19:48,Arrival,
+19:50,PARIS» (CDG),EJU 4669,Expected 19:40,Arrival,
 20:15,HELSINKI (HEL),AY 1165,Flight delayed,Arrival,Delayed
 20:20,MANCHESTER (MAN),FR 2148,,Arrival,
 20:25,EINDHOVEN (EIN),FR 5891,,Arrival,
@@ -23,7 +18,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 20:35,BIRMINGHAM (BHX),EZY 6629,,Arrival,
 20:35,CATANIA (CTA),FR 8708,,Arrival,
 20:45,BARCELONA (BCN),FR 5252,,Arrival,
-20:45,MALAGA (AGP),FR 5431,,Arrival,
+20:45,MALAGA (AGP),FR 5431,Expected 21:03,Arrival,
 20:50,BRISTOL (BRS),EZY 2937,,Arrival,
 20:50,WARSAW (WAW),LO 3921,,Arrival,
 21:10,OSLO GARDERMOEN (OSL),DY 1042,,Arrival,
@@ -54,23 +49,18 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,LONDON GATWICK (LGW),W6 2008,,Arrival,
 23:55,ABU DHABI (AUH),W6 2094,,Arrival,
-17:00,STOCKHOLM ARLANDA (ARN),FR 6692,Expected 17:21,Departure,
-17:00,AMSTERDAM (AMS),KL 1327,Canceled,Departure,Cancelled
-17:05,EAST MIDLANDS (EMA),LS 3011,Landed 16:52,Departure,
-17:10,TALLINN (TLL),W6 2046,Landed 17:10,Departure,
-17:30,WARSAW (WAW),LO 3923,Expected 17:28,Departure,
-18:00,BARI (BRI),FR 2723,Expected 17:38,Departure,
-18:00,OSLO GARDERMOEN (OSL),W6 2034,Expected 17:58,Departure,
+18:00,BARI (BRI),FR 2723,Landed 17:33,Departure,
+18:00,OSLO GARDERMOEN (OSL),W6 2034,Landed 17:54,Departure,
 18:20,OSLO TORP (TRF),FR 6311,Flight delayed,Departure,Delayed
-18:40,BOLOGNA (BLQ),FR 5439,Flight delayed,Departure,Delayed
-18:40,FRANKFURT (FRA),LH 1368,Expected 18:26,Departure,
-18:45,MANCHESTER (MAN),LS 949,Expected 19:00,Departure,
+18:40,BOLOGNA (BLQ),FR 5439,Expected 18:39,Departure,
+18:40,FRANKFURT (FRA),LH 1368,Expected 18:28,Departure,
+18:45,MANCHESTER (MAN),LS 949,Expected 19:01,Departure,
 18:50,AMSTERDAM (AMS),KL 1329,Canceled,Departure,Cancelled
-19:05,PORTO (OPO),FR 3048,Expected 18:26,Departure,
+19:05,PORTO (OPO),FR 3048,Expected 18:27,Departure,
 19:30,DUSSELDORF (DUS),EW 9732,Flight delayed,Departure,Delayed
 19:30,BELGRADE (BEG),JU 158,,Departure,
-19:35,MALTA (MLA),FR 7114,,Departure,
-19:50,PARIS» (CDG),EJU 4669,,Departure,
+19:35,MALTA (MLA),FR 7114,Expected 19:48,Departure,
+19:50,PARIS» (CDG),EJU 4669,Expected 19:38,Departure,
 20:15,HELSINKI (HEL),AY 1165,Flight delayed,Departure,Delayed
 20:20,MANCHESTER (MAN),FR 2148,,Departure,
 20:25,EINDHOVEN (EIN),FR 5891,,Departure,
@@ -78,7 +68,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 20:35,BIRMINGHAM (BHX),EZY 6629,,Departure,
 20:35,CATANIA (CTA),FR 8708,,Departure,
 20:45,BARCELONA (BCN),FR 5252,,Departure,
-20:45,MALAGA (AGP),FR 5431,,Departure,
+20:45,MALAGA (AGP),FR 5431,Expected 21:02,Departure,
 20:50,BRISTOL (BRS),EZY 2937,,Departure,
 20:50,WARSAW (WAW),LO 3921,,Departure,
 21:10,OSLO GARDERMOEN (OSL),DY 1042,,Departure,
