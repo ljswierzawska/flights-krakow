@@ -1,23 +1,15 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-20:00,BRUSSELS CHARLEROI (CRL),FR 4934,Flight delayed,Arrival,Delayed
-20:10,GENEVA (GVA),EZS 1353,Flight delayed,Arrival,Delayed
-20:25,TIRANA (TIA),FR 8403,Landed 20:10,Arrival,
-20:35,CAGLIARI (CAG),FR 4425,Expected 20:24,Arrival,
-20:40,MANCHESTER (MAN),EZY 2263,Expected 21:09,Arrival,
-20:45,STOCKHOLM ARLANDA (ARN),FR 4635,,Arrival,
-20:50,WARSAW (WAW),LO 3921,Expected 20:47,Arrival,
-20:55,MANCHESTER (MAN),FR 2148,Flight delayed,Arrival,Delayed
-21:20,SHARJAH (SHJ),G9 748,Expected 21:11,Arrival,
+21:20,SHARJAH (SHJ),G9 748,Landed 21:10,Arrival,
 21:30,LONDON STANSTED (STN),FR 2434,Flight delayed,Arrival,Delayed
-21:50,RIGA (RIX),FR 5429,,Arrival,
-21:55,BERGEN (BGO),W6 2036,Expected 21:44,Arrival,
-22:00,BARCELONA (BCN),W6 2096,Expected 21:34,Arrival,
-22:10,BRISTOL (BRS),FR 6221,Expected 22:01,Arrival,
-22:35,MEMMINGEN (FMM),FR 2175,,Arrival,
+21:50,RIGA (RIX),FR 5429,Expected 22:24,Arrival,
+21:55,BERGEN (BGO),W6 2036,Expected 21:42,Arrival,
+22:00,BARCELONA (BCN),W6 2096,Expected 21:33,Arrival,
+22:10,BRISTOL (BRS),FR 6221,Expected 21:58,Arrival,
+22:35,MEMMINGEN (FMM),FR 2175,Expected 22:03,Arrival,
 22:40,FRANKFURT (FRA),LH 1370,,Arrival,
 22:50,PARIS» ORLY (ORY),LO 338,,Arrival,
 22:55,AMSTERDAM (AMS),KL 1331,Canceled,Arrival,Cancelled
-23:05,VALENCIA (VLC),FR 2228,Expected 22:33,Arrival,
+23:05,VALENCIA (VLC),FR 2228,Expected 22:30,Arrival,
 23:05,VENICE TREVISO (TSF),FR 3038,,Arrival,
 23:25,ROME CIAMPINO (CIA),FR 1470,,Arrival,
 23:35,MUNICH (MUC),LH 1626,,Arrival,
@@ -29,25 +21,17 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,LONDON GATWICK (LGW),W6 2008,,Arrival,
 23:55,GENOA (GOA),W6 2028,,Arrival,
-20:00,BRUSSELS CHARLEROI (CRL),FR 4934,Flight delayed,Departure,Delayed
-20:10,GENEVA (GVA),EZS 1353,Expected 21:46,Departure,
-20:25,TIRANA (TIA),FR 8403,Landed 20:10,Departure,
-20:35,CAGLIARI (CAG),FR 4425,Expected 20:24,Departure,
-20:40,MANCHESTER (MAN),EZY 2263,Expected 21:09,Departure,
-20:45,STOCKHOLM ARLANDA (ARN),FR 4635,Flight delayed,Departure,Delayed
-20:50,WARSAW (WAW),LO 3921,Expected 20:44,Departure,
-20:55,MANCHESTER (MAN),FR 2148,Flight delayed,Departure,Delayed
-21:20,SHARJAH (SHJ),G9 748,Expected 21:11,Departure,
+21:20,SHARJAH (SHJ),G9 748,Landed 21:10,Departure,
 21:30,LONDON STANSTED (STN),FR 2434,Flight delayed,Departure,Delayed
-21:50,RIGA (RIX),FR 5429,,Departure,
-21:55,BERGEN (BGO),W6 2036,Expected 21:43,Departure,
-22:00,BARCELONA (BCN),W6 2096,Expected 21:35,Departure,
-22:10,BRISTOL (BRS),FR 6221,Expected 21:59,Departure,
-22:35,MEMMINGEN (FMM),FR 2175,,Departure,
+21:50,RIGA (RIX),FR 5429,Expected 22:24,Departure,
+21:55,BERGEN (BGO),W6 2036,Expected 21:42,Departure,
+22:00,BARCELONA (BCN),W6 2096,Expected 21:33,Departure,
+22:10,BRISTOL (BRS),FR 6221,Expected 21:58,Departure,
+22:35,MEMMINGEN (FMM),FR 2175,Expected 22:03,Departure,
 22:40,FRANKFURT (FRA),LH 1370,,Departure,
 22:50,PARIS» ORLY (ORY),LO 338,,Departure,
 22:55,AMSTERDAM (AMS),KL 1331,Canceled,Departure,Cancelled
-23:05,VALENCIA (VLC),FR 2228,Expected 22:33,Departure,
+23:05,VALENCIA (VLC),FR 2228,Expected 22:30,Departure,
 23:05,VENICE TREVISO (TSF),FR 3038,,Departure,
 23:25,ROME CIAMPINO (CIA),FR 1470,,Departure,
 23:35,MUNICH (MUC),LH 1626,,Departure,
