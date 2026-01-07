@@ -17,7 +17,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 10:40,MILAN MALPENSA (MXP),W6 2068,,Arrival,
 10:55,OSLO TORP (TRF),FR 6217,,Arrival,
 11:05,LONDON GATWICK (LGW),EZY 8821,,Arrival,
-11:10,DUBAI (DXB),FZ 1787,,Arrival,
+11:10,DUBAI (DXB),FZ 1787,Expected 10:57,Arrival,
 11:10,AMSTERDAM (AMS),KL 1323,Canceled,Arrival,Cancelled
 11:20,SEVILLA (SVQ),FR 1312,,Arrival,
 11:20,SHARJAH (SHJ),G9 730,,Arrival,
@@ -100,7 +100,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 10:40,MILAN MALPENSA (MXP),W6 2068,,Departure,
 10:55,OSLO TORP (TRF),FR 6217,,Departure,
 11:05,LONDON GATWICK (LGW),EZY 8821,,Departure,
-11:10,DUBAI (DXB),FZ 1787,,Departure,
+11:10,DUBAI (DXB),FZ 1787,Expected 10:57,Departure,
 11:10,AMSTERDAM (AMS),KL 1323,Canceled,Departure,Cancelled
 11:20,SEVILLA (SVQ),FR 1312,,Departure,
 11:20,SHARJAH (SHJ),G9 730,,Departure,
