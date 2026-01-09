@@ -1,27 +1,19 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-22:10,GDAÅSK (GDN),FR 236,Flight delayed,Arrival,Delayed
-22:50,PARIS» ORLY (ORY),LO 338,Landed 22:14,Arrival,
-22:55,AMSTERDAM (AMS),KL 1331,,Arrival,
-22:55,FRANKFURT (FRA),LH 1370,Expected 23:26,Arrival,
-23:10,BARCELONA (BCN),W6 2096,,Arrival,
-23:20,VIENNA (VIE),OS 683,,Arrival,
-23:35,OSLO TORP (TRF),FR 6217,Expected 23:58,Arrival,
-23:35,MUNICH (MUC),LH 1626,Expected 23:17,Arrival,
-23:35,OSLO GARDERMOEN (OSL),W6 2038,Expected 23:31,Arrival,
-23:35,ROME FUMICINO (FCO),W6 2062,Expected 23:13,Arrival,
+23:10,BARCELONA (BCN),W6 2096,Flight delayed,Arrival,Delayed
+23:20,VIENNA (VIE),OS 683,Flight delayed,Arrival,Delayed
+23:35,OSLO TORP (TRF),FR 6217,Expected 23:56,Arrival,
+23:35,MUNICH (MUC),LH 1626,Landed 23:11,Arrival,
+23:35,OSLO GARDERMOEN (OSL),W6 2038,Expected 23:28,Arrival,
+23:35,ROME FUMICINO (FCO),W6 2062,Landed 23:15,Arrival,
 23:50,WARSAW (WAW),LO 3911,,Arrival,
-23:55,ROME CIAMPINO (CIA),FR 1470,Expected 23:27,Arrival,
-23:55,GENOA (GOA),W6 2028,,Arrival,
-22:10,GDAÅSK (GDN),FR 236,Flight delayed,Departure,Delayed
-22:50,PARIS» ORLY (ORY),LO 338,Landed 22:14,Departure,
-22:55,AMSTERDAM (AMS),KL 1331,,Departure,
-22:55,FRANKFURT (FRA),LH 1370,Expected 23:26,Departure,
-23:10,BARCELONA (BCN),W6 2096,,Departure,
-23:20,VIENNA (VIE),OS 683,,Departure,
-23:35,OSLO TORP (TRF),FR 6217,Expected 23:58,Departure,
-23:35,MUNICH (MUC),LH 1626,Expected 23:17,Departure,
-23:35,OSLO GARDERMOEN (OSL),W6 2038,Expected 23:31,Departure,
-23:35,ROME FUMICINO (FCO),W6 2062,Expected 23:13,Departure,
+23:55,ROME CIAMPINO (CIA),FR 1470,Expected 23:26,Arrival,
+23:55,GENOA (GOA),W6 2028,Flight delayed,Arrival,Delayed
+23:10,BARCELONA (BCN),W6 2096,Flight delayed,Departure,Delayed
+23:20,VIENNA (VIE),OS 683,Flight delayed,Departure,Delayed
+23:35,OSLO TORP (TRF),FR 6217,Expected 23:56,Departure,
+23:35,MUNICH (MUC),LH 1626,Landed 23:11,Departure,
+23:35,OSLO GARDERMOEN (OSL),W6 2038,Expected 23:28,Departure,
+23:35,ROME FUMICINO (FCO),W6 2062,Landed 23:15,Departure,
 23:50,WARSAW (WAW),LO 3911,,Departure,
-23:55,ROME CIAMPINO (CIA),FR 1470,Expected 23:27,Departure,
-23:55,GENOA (GOA),W6 2028,,Departure,
+23:55,ROME CIAMPINO (CIA),FR 1470,Expected 23:26,Departure,
+23:55,GENOA (GOA),W6 2028,Flight delayed,Departure,Delayed
