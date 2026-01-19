@@ -1,7 +1,4 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-00:00,DUBLIN (DUB),FR 2023,Expected 00:53,Arrival,
-00:55,SEVILLA (SVQ),FR 1312,Expected 00:35,Arrival,
-01:00,MILAN BERGAMO (BGY),FR 6257,Expected 00:46,Arrival,
 07:25,SOFIA (SOF),W6 4453,,Arrival,
 07:55,THESSALONIKI (SKG),FR 7227,,Arrival,
 08:10,HELSINKI (HEL),AY 1161,,Arrival,
@@ -112,9 +109,6 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,LONDON GATWICK (LGW),W6 2008,,Arrival,
 23:55,GENOA (GOA),W6 2028,,Arrival,
-00:00,DUBLIN (DUB),FR 2023,Expected 00:54,Departure,
-00:55,SEVILLA (SVQ),FR 1312,Expected 00:38,Departure,
-01:00,MILAN BERGAMO (BGY),FR 6257,Expected 00:46,Departure,
 07:25,SOFIA (SOF),W6 4453,,Departure,
 07:55,THESSALONIKI (SKG),FR 7227,,Departure,
 08:10,HELSINKI (HEL),AY 1161,,Departure,
