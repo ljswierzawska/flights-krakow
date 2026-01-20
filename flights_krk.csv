@@ -1,7 +1,7 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 08:20,ISTANBUL (IST),TK 1271,,Arrival,
 08:25,ROME CIAMPINO (CIA),FR 082,,Arrival,
-09:15,TOULOSE (TLS),FR 9950,,Arrival,
+09:15,TOLOUSE (TLS),FR 9950,,Arrival,
 09:20,MRSILLE (MRS),V7 9222,,Arrival,
 09:30,BIRMINGHAM (BHX),FR 1465,,Arrival,
 09:45,COPENHAGEN (CPH),SK 1735,,Arrival,
@@ -61,7 +61,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:55,ABU DHABI (AUH),W6 2094,,Arrival,
 08:20,ISTANBUL (IST),TK 1271,,Departure,
 08:25,ROME CIAMPINO (CIA),FR 082,,Departure,
-09:15,TOULOSE (TLS),FR 9950,,Departure,
+09:15,TOLOUSE (TLS),FR 9950,,Departure,
 09:20,MRSILLE (MRS),V7 9222,,Departure,
 09:30,BIRMINGHAM (BHX),FR 1465,,Departure,
 09:45,COPENHAGEN (CPH),SK 1735,,Departure,
