@@ -1,6 +1,4 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-00:25,GRAN CANARIA (LPA),FR 4504,Landed 00:18,Arrival,
-00:30,TENERIFE SOUTH (TFS),FR 2654,Expected 00:35,Arrival,
 07:25,SOFIA (SOF),W6 4453,,Arrival,
 08:10,HELSINKI (HEL),AY 1161,,Arrival,
 08:20,ISTANBUL (IST),TK 1271,,Arrival,
@@ -72,8 +70,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,MILAN BERGAMO (BGY),FR 888,,Arrival,
 23:55,LONDON GATWICK (LGW),W6 2008,,Arrival,
-00:25,GRAN CANARIA (LPA),FR 4504,Landed 00:18,Departure,
-00:30,TENERIFE SOUTH (TFS),FR 2654,Expected 00:35,Departure,
+23:55,ABU DHABI (AUH),W6 2094,Flight delayed,Arrival,Delayed
 07:25,SOFIA (SOF),W6 4453,,Departure,
 08:10,HELSINKI (HEL),AY 1161,,Departure,
 08:20,ISTANBUL (IST),TK 1271,,Departure,
@@ -145,3 +142,4 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,WARSAW (WAW),LO 3911,,Departure,
 23:55,MILAN BERGAMO (BGY),FR 888,,Departure,
 23:55,LONDON GATWICK (LGW),W6 2008,,Departure,
+23:55,ABU DHABI (AUH),W6 2094,Flight delayed,Departure,Delayed
