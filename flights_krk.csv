@@ -1,5 +1,4 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-02:57,ATHENS (ATH),W6 2094,Expected 03:15,Arrival,
 08:05,ROME CIAMPINO (CIA),FR 082,,Arrival,
 08:10,HELSINKI (HEL),AY 1161,,Arrival,
 08:20,ISTANBUL (IST),TK 1271,,Arrival,
@@ -105,7 +104,6 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,LONDON GATWICK (LGW),W6 2008,,Arrival,
 23:55,ABU DHABI (AUH),W6 2094,,Arrival,
-02:57,ATHENS (ATH),W6 2094,Expected 03:15,Departure,
 08:05,ROME CIAMPINO (CIA),FR 082,,Departure,
 08:10,HELSINKI (HEL),AY 1161,,Departure,
 08:20,ISTANBUL (IST),TK 1271,,Departure,
