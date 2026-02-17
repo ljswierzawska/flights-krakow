@@ -1,10 +1,4 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-00:10,DUBLIN (DUB),FR 2030,Flight delayed,Arrival,Delayed
-00:10,CATANIA (CTA),FR 8708,Flight delayed,Arrival,Delayed
-00:25,LAMEZIA TERME (SUF),FR 5144,Expected 01:34,Arrival,
-00:55,MILAN BERGAMO (BGY),FR 3535,Flight delayed,Arrival,Delayed
-01:00,MADRID (MAD),FR 5356,Expected 02:38,Arrival,
-01:48,VENICE (VCE),RYR3038,,Arrival,
 08:00,STOCKHOLM ARLANDA (ARN),FR 4626,,Arrival,
 08:10,ROME FUMICINO (FCO),W4 2032,,Arrival,
 08:20,ISTANBUL (IST),TK 1271,,Arrival,
@@ -83,9 +77,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:40,LONDON STANSTED (STN),FR 2432,,Arrival,
 23:45,MADRID (MAD),FR 5516,,Arrival,
 23:50,WARSAW (WAW),LO 3911,,Arrival,
-00:55,MILAN BERGAMO (BGY),FR 3535,Flight delayed,Departure,Delayed
-01:00,MADRID (MAD),FR 5356,Expected 02:38,Departure,
-01:48,VENICE (VCE),RYR3038,,Departure,
+23:55,ABU DHABI (AUH),W6 2094,Flight delayed,Arrival,Delayed
 08:00,STOCKHOLM ARLANDA (ARN),FR 4626,,Departure,
 08:10,ROME FUMICINO (FCO),W4 2032,,Departure,
 08:20,ISTANBUL (IST),TK 1271,,Departure,
@@ -164,3 +156,4 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:40,LONDON STANSTED (STN),FR 2432,,Departure,
 23:45,MADRID (MAD),FR 5516,,Departure,
 23:50,WARSAW (WAW),LO 3911,,Departure,
+23:55,ABU DHABI (AUH),W6 2094,Flight delayed,Departure,Delayed
