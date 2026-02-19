@@ -1,5 +1,4 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-00:45,LISBON (NOV),FR 4024,Expected 00:22,Arrival,
 08:10,HELSINKI (HEL),AY 1161,,Arrival,
 08:40,ANTALIA (AYT),XQ 432,,Arrival,
 08:45,BASEL (BSL),EZS 1283,,Arrival,
@@ -107,7 +106,6 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,LONDON GATWICK (LGW),W6 2008,,Arrival,
 23:55,ABU DHABI (AUH),W6 2094,,Arrival,
-00:45,LISBON (NOV),FR 4024,Expected 00:22,Departure,
 08:10,HELSINKI (HEL),AY 1161,,Departure,
 08:40,ANTALIA (AYT),XQ 432,,Departure,
 08:45,BASEL (BSL),EZS 1283,,Departure,
@@ -183,8 +181,8 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 19:10,ALICANTE (ALC),FR 6365,,Departure,
 19:25,ROME CIAMPINO (CIA),FR 1470,,Departure,
 19:25,BRUSSELS CHARLEROI (CRL),FR 4934,,Departure,
-19:35,MANCHESTER (MAN),FR 2148,,Departure,
 19:35,PARIS» (CDG),EJU 4669,,Departure,
+19:35,MANCHESTER (MAN),FR 2148,,Departure,
 19:50,BERGEN (BGO),DY 1028,,Departure,
 19:55,LIVERPOOL (LPL),FR 6360,,Departure,
 20:00,MALTA (MLA),FR 7114,,Departure,
