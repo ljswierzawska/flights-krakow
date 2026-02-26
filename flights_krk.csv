@@ -1,6 +1,4 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-00:05,AGADIR (AGA),FR 9279,Landed at 23:55,Arrival,
-00:45,LISBON (NOV),FR 4024,Landed 00:05,Arrival,
 08:10,HELSINKI (HEL),AY 1161,,Arrival,
 08:40,ANTALIA (AYT),XQ 432,,Arrival,
 08:45,BASEL (BSL),EZS 1283,,Arrival,
@@ -111,7 +109,6 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,LONDON GATWICK (LGW),W6 2008,,Arrival,
 23:55,ABU DHABI (AUH),W6 2094,,Arrival,
-00:45,LISBON (NOV),FR 4024,Landed 00:05,Departure,
 08:10,HELSINKI (HEL),AY 1161,,Departure,
 08:40,ANTALIA (AYT),XQ 432,,Departure,
 08:45,BASEL (BSL),EZS 1283,,Departure,
