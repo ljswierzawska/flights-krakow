@@ -16,8 +16,8 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 09:45,COPENHAGEN (CPH),SK 1735,,Arrival,
 09:50,VILNIUS (VNO),W6 2040,,Arrival,
 10:00,AMSTERDAM (AMS),EJU 7981,,Arrival,
-10:05,TEL AVIV (TLV),LO 160,Canceled,Arrival,Cancelled
 10:05,MILAN BERGAMO (BGY),FR 888,,Arrival,
+10:05,TEL AVIV (TLV),LO 160,Canceled,Arrival,Cancelled
 10:10,DUBLIN (DUB),FR 1901,,Arrival,
 10:10,SHANNON (SNN),FR 3327,,Arrival,
 10:25,LIVERPOOL (LPL),EZY 3479,,Arrival,
@@ -79,7 +79,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 17:15,ALICANTE (ALC),FR 6365,,Arrival,
 17:20,LEEDS BRADFORD (LBA),FR 2343,,Arrival,
 17:30,WARSAW (WAW),LO 3923,,Arrival,
-17:40,TEL AVIV (TLV),LY 5119,Canceled,Arrival,Cancelled
+17:40,TEL AVIV (TLV),LY5119,Canceled,Arrival,Cancelled
 17:50,BIRMINGHAM (BHX),LS 1251,,Arrival,
 18:00,OSLO GARDERMOEN (OSL),W6 2034,,Arrival,
 18:05,PISA (PSA),FR 7931,,Arrival,
@@ -93,7 +93,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 18:50,TENERIFE SOUTH (TFS),FR 2654,,Arrival,
 18:50,AMSTERDAM (AMS),KL 1329,,Arrival,
 18:50,LYON (LYS),W6 2092,,Arrival,
-19:05,MRSILLE (MRS),FR 5413,,Arrival,
+19:05,MARSEILLE (MRS),FR 5413,,Arrival,
 19:10,GLASGOW (GLA),LS 113,,Arrival,
 19:15,PARIS» BEAUVAIS (BVA),FR 3436,,Arrival,
 19:20,PARIS» (CDG),EJU 4669,,Arrival,
@@ -194,8 +194,8 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 15:10,BARI (BRI),FR 2723,,Departure,
 15:15,PALERMO (PMO),FR 6233,,Departure,
 15:20,BIRMINGHAM (BHX),FR 1465,,Departure,
-15:25,BASEL (BSL),W6 2030,,Departure,
 15:25,BOLOGNA (BLQ),FR 3798,,Departure,
+15:25,BASEL (BSL),W6 2030,,Departure,
 15:40,STOCKHOLM ARLANDA (ARN),FR 4626,,Departure,
 16:10,GÃTEBORG LANDVETTER (GOT),FR 4011,,Departure,
 16:20,WARSAW (WAW),LO 3919,,Departure,
