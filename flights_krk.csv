@@ -1,5 +1,4 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-00:45,LISBON (NOV),FR 4024,Landed 00:14,Arrival,
 08:10,HELSINKI (HEL),AY 1161,,Arrival,
 08:40,ANTALIA (AYT),XQ 432,,Arrival,
 08:45,BASEL (BSL),EZS 1283,,Arrival,
@@ -108,7 +107,6 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:40,VENICE TREVISO (TSF),FR 3038,,Arrival,
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,LONDON GATWICK (LGW),W6 2008,,Arrival,
-00:45,LISBON (NOV),FR 4024,Landed 00:14,Departure,
 08:10,HELSINKI (HEL),AY 1161,,Departure,
 08:40,ANTALIA (AYT),XQ 432,,Departure,
 08:45,BASEL (BSL),EZS 1283,,Departure,
