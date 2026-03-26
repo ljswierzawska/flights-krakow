@@ -1,6 +1,6 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 08:10,HELSINKI (HEL),AY 1161,,Arrival,
-08:40,ANTALIA (AYT),XQ 432,,Arrival,
+08:40,ANTALIA (AYT),XQ 432,Expected 08:07,Arrival,
 08:45,BASEL (BSL),EZS 1283,,Arrival,
 09:20,PARIS» (CDG),EJU 4667,,Arrival,
 09:25,COPENHAGEN (CPH),FR 2725,,Arrival,
@@ -109,7 +109,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,LONDON GATWICK (LGW),W6 2008,,Arrival,
 08:10,HELSINKI (HEL),AY 1161,,Departure,
-08:40,ANTALIA (AYT),XQ 432,,Departure,
+08:40,ANTALIA (AYT),XQ 432,Expected 08:07,Departure,
 08:45,BASEL (BSL),EZS 1283,,Departure,
 09:20,PARIS» (CDG),EJU 4667,,Departure,
 09:25,COPENHAGEN (CPH),FR 2725,,Departure,
