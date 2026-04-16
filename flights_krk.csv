@@ -10,9 +10,9 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 09:25,VALENCIA (VLC),FR 2228,,Arrival,
 09:25,COPENHAGEN (CPH),SK 1735,,Arrival,
 09:40,LONDON LUTON (LTN),FR 1813,,Arrival,
-09:50,GDAŃSK (GDN),FR 236,,Arrival,
+09:50,GDAÅSK (GDN),FR 236,,Arrival,
 10:00,VENICE TREVISO (TSF),FR 3038,,Arrival,
-10:15,BRUSSELS CHARLEROI (CRL),FR 4934,,Arrival,
+10:15,BRUKSELA CHARLEROI (CRL),FR 4934,,Arrival,
 10:25,FRANKFURT (FRA),LH 1362,Canceled,Arrival,Cancelled
 10:30,PORTO (OPO),FR 3048,,Arrival,
 11:00,GENOA (GOA),W6 2028,,Arrival,
@@ -131,7 +131,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 09:25,VALENCIA (VLC),FR 2228,,Departure,
 09:25,COPENHAGEN (CPH),SK 1735,,Departure,
 09:40,LONDON LUTON (LTN),FR 1813,,Departure,
-09:50,GDAŃSK (GDN),FR 236,,Departure,
+09:50,GDAÅSK (GDN),FR 236,,Departure,
 10:00,VENICE TREVISO (TSF),FR 3038,,Departure,
 10:15,BRUSSELS CHARLEROI (CRL),FR 4934,,Departure,
 10:25,FRANKFURT (FRA),LH 1362,Canceled,Departure,Cancelled
