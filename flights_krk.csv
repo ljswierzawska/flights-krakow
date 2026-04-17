@@ -32,8 +32,8 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 11:40,MILAN BERGAMO (BGY),FR 888,,Arrival,
 11:45,HELSINKI (HEL),AY 1165,,Arrival,
 11:45,OSLO GARDERMOEN (OSL),DY 1040,,Arrival,
-11:50,LONDON GATWICK (LGW),W6 2008,,Arrival,
 11:50,DUBAI (DXB),FZ 1787,,Arrival,
+11:50,LONDON GATWICK (LGW),W6 2008,,Arrival,
 11:55,BIRMINGHAM (BHX),LS 1251,,Arrival,
 12:15,FRANKFURT (FRA),LH 1364,Canceled,Arrival,Cancelled
 12:20,BERGEN (BGO),DY 1028,,Arrival,
