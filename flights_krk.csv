@@ -1,7 +1,4 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-01:00,SEVILLA (SVQ),FR 1312,Landed 00:41,Arrival,
-01:00,MADRID (MAD),FR 5356,Expected 01:22,Arrival,
-01:00,ABERDEEN (ABZ),FR 8842,Landed 00:39,Arrival,
 07:30,COPENHAGEN (CPH),FR 2725,,Arrival,
 07:55,MILAN BERGAMO (BGY),FR 888,,Arrival,
 08:05,MRSILLE (MRS),FR 5413,,Arrival,
@@ -127,9 +124,6 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,FRANKFURT (FRA),LH 1370,,Arrival,
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:50,TALLINN (TLL),W6 2046,,Arrival,
-01:00,SEVILLA (SVQ),FR 1312,Landed 00:41,Departure,
-01:00,MADRID (MAD),FR 5356,Expected 01:22,Departure,
-01:00,ABERDEEN (ABZ),FR 8842,Landed 00:39,Departure,
 07:30,COPENHAGEN (CPH),FR 2725,,Departure,
 07:55,MILAN BERGAMO (BGY),FR 888,,Departure,
 08:05,MRSILLE (MRS),FR 5413,,Departure,
