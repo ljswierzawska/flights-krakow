@@ -1,5 +1,5 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-06:55,ANTALIA (AYT),XQ 432,,Arrival,
+06:55,ANTALIA (AYT),XQ 432,Expected 06:31,Arrival,
 08:10,HELSINKI (HEL),AY 1161,,Arrival,
 08:25,COPENHAGEN (CPH),D8 3562,,Arrival,
 08:40,BARCELONA GIRONA (GRO),FR 8673,,Arrival,
@@ -118,7 +118,7 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:45,OSLO TORP (TRF),FR 6217,,Arrival,
 23:50,FRANKFURT (FRA),LH 1370,,Arrival,
 23:50,WARSAW (WAW),LO 3911,,Arrival,
-06:55,ANTALIA (AYT),XQ 432,,Departure,
+06:55,ANTALIA (AYT),XQ 432,Expected 06:31,Departure,
 08:10,HELSINKI (HEL),AY 1161,,Departure,
 08:25,COPENHAGEN (CPH),D8 3562,,Departure,
 08:40,BARCELONA GIRONA (GRO),FR 8673,,Departure,
