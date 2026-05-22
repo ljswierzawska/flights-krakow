@@ -1,5 +1,4 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-06:40,SOFIA (SOF),FR 8976,,Arrival,
 08:00,ANTALIA (AYT),FH 763,,Arrival,
 08:10,HELSINKI (HEL),AY 1161,,Arrival,
 08:10,LUXEMBOURG (LUX),LG 5741,,Arrival,
@@ -135,7 +134,6 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,FRANKFURT (FRA),LH 1370,,Arrival,
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,BIRMINGHAM (BHX),FR 5756,,Arrival,
-06:40,SOFIA (SOF),FR 8976,,Departure,
 08:00,ANTALIA (AYT),FH 763,,Departure,
 08:10,HELSINKI (HEL),AY 1161,,Departure,
 08:10,LUXEMBOURG (LUX),LG 5741,,Departure,
