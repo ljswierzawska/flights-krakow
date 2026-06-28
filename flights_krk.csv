@@ -1,45 +1,26 @@
 Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-17:00,CAGLIARI (CAG),FR 4425,Landed 16:58,Arrival,
-17:05,ATHENS (ATH),FR 2610,Flight delayed,Arrival,Delayed
-17:15,BRUSSELS CHARLEROI (CRL),FR 4934,Expected 17:21,Arrival,
-17:15,EINDHOVEN (EIN),W6 2076,Landed 17:03,Arrival,
-17:25,BUDAPEST (BUD),FR 9752,Landed 16:56,Arrival,
-17:25,AMSTERDAM (AMS),KL 1327,Canceled,Arrival,Cancelled
-17:25,BUCHAREST BANESA (BBU),W6 2058,Flight delayed,Arrival,Delayed
-17:30,BRUSSELS (BRU),SN 2547,Flight delayed,Arrival,Delayed
-17:40,VENICE TREVISO (TSF),FR 3038,Expected 17:26,Arrival,
-17:45,WARSAW (WAW),LO 3923,,Arrival,
-17:50,MALTA (MLA),FR 7114,Expected 17:37,Arrival,
-18:00,OSLO GARDERMOEN (OSL),W6 2034,Expected 17:37,Arrival,
-18:05,ANTALIA (AYT),P.C.1502,Expected 18:06,Arrival,
-18:10,HELSINKI (HEL),AY 1163,Flight delayed,Arrival,Delayed
-18:15,TEL AVIV (TLV),LY 5419,Expected 17:56,Arrival,
-18:30,TALLINN (TLL),W6 2046,Expected 18:19,Arrival,
-18:35,FRANKFURT (FRA),LH 1368,Flight delayed,Arrival,Delayed
-18:45,BODRUM (BJV),ENT 4768,Expected 18:26,Arrival,
-18:55,MILAN BERGAMO (BGY),FR 6257,,Arrival,
-19:00,ZURICH (ZRH),LX 1374,Flight delayed,Arrival,Delayed
-19:05,FARO (FAO),FR 2838,Expected 19:32,Arrival,
-19:05,ALICANTE (ALC),FR 6356,Expected 18:59,Arrival,
-19:15,HERAKLION (HER),ENT 7084,Flight delayed,Arrival,Delayed
-19:20,CORFU (CFU),FR 6963,Flight delayed,Arrival,Delayed
-19:25,ISTANBUL (IST),TK 1273,,Arrival,
-19:35,GDAŃSK (GDN),FR 236,,Arrival,
-19:40,BELGRADE (BEG),JU 158,,Arrival,
-20:15,GENEVA (GVA),EZS 1501,,Arrival,
-20:20,BIRMINGHAM (BHX),FR 1465,,Arrival,
+19:00,ZURICH (ZRH),LX 1374,Expected 20:31,Arrival,
+19:05,FARO (FAO),FR 2838,Expected 19:26,Arrival,
+19:05,ALICANTE (ALC),FR 6356,Landed 18:59,Arrival,
+19:15,HERAKLION (HER),ENT 7084,Expected 19:43,Arrival,
+19:20,CORFU (CFU),FR 6963,Expected 19:47,Arrival,
+19:25,ISTANBUL (IST),TK 1273,Landed 19:02,Arrival,
+19:35,GDAŃSK (GDN),FR 236,Expected 19:15,Arrival,
+19:40,BELGRADE (BEG),JU 158,Expected 20:08,Arrival,
+20:15,GENEVA (GVA),EZS 1501,Expected 20:28,Arrival,
+20:20,BIRMINGHAM (BHX),FR 1465,Expected 20:22,Arrival,
 20:20,MANCHESTER (MAN),LS 949,Flight delayed,Arrival,Delayed
-20:25,NAPLES (NAP),FR 4045,,Arrival,
-20:35,BASEL (BSL),EZS 1261,,Arrival,
+20:25,NAPLES (NAP),FR 4045,Expected 20:34,Arrival,
+20:35,BASEL (BSL),EZS 1261,Flight delayed,Arrival,Delayed
 20:35,BRISTOL (BRS),EZY 2937,Flight delayed,Arrival,Delayed
-20:35,MANCHESTER (MAN),FR 2141,,Arrival,
-20:45,NEWCASTLE (NCL),FR 450,,Arrival,
+20:35,MANCHESTER (MAN),FR 2141,Expected 20:18,Arrival,
+20:45,NEWCASTLE (NCL),FR 450,Expected 21:10,Arrival,
 20:45,WARSAW (WAW),LO 3921,,Arrival,
-20:50,MARRAKESH (CANCER),FR 7103,Expected 20:45,Arrival,
-21:10,LONDON GATWICK (LGW),EZY 8823,,Arrival,
+20:50,MARRAKESH (CANCER),FR 7103,Expected 20:41,Arrival,
+21:10,LONDON GATWICK (LGW),EZY 8823,Flight delayed,Arrival,Delayed
 21:20,OSLO GARDERMOEN (OSL),DY 1042,,Arrival,
-21:20,LISBON (NOV),FR 4024,,Arrival,
-21:30,LONDON LUTON (LTN),FR 1813,,Arrival,
+21:20,LISBON (NOV),FR 4024,Expected 21:08,Arrival,
+21:30,LONDON LUTON (LTN),FR 1813,Flight delayed,Arrival,Delayed
 21:50,STOCKHOLM ARLANDA (ARN),FR 4626,,Arrival,
 21:55,ROME CIAMPINO (CIA),FR 1470,,Arrival,
 22:10,GÃTEBORG LANDVETTER (GOT),FR 7841,,Arrival,
@@ -61,47 +42,28 @@ Time,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:35,ROME FUMICINO (FCO),W6 2062,,Arrival,
 23:50,WARSAW (WAW),LO 3911,,Arrival,
 23:55,MADRID (MAD),LO 2162,,Arrival,
-17:00,CAGLIARI (CAG),FR 4425,Landed 16:58,Departure,
-17:05,ATHENS (ATH),FR 2610,Flight delayed,Departure,Delayed
-17:15,BRUSSELS CHARLEROI (CRL),FR 4934,Expected 17:21,Departure,
-17:15,EINDHOVEN (EIN),W6 2076,Landed 17:03,Departure,
-17:25,BUDAPEST (BUD),FR 9752,Landed 16:56,Departure,
-17:25,AMSTERDAM (AMS),KL 1327,Canceled,Departure,Cancelled
-17:25,BUCHAREST BANESA (BBU),W6 2058,Flight delayed,Departure,Delayed
-17:30,BRUSSELS (BRU),SN 2547,Flight delayed,Departure,Delayed
-17:40,VENICE TREVISO (TSF),FR 3038,Expected 17:26,Departure,
-17:45,WARSAW (WAW),LO 3923,,Departure,
-17:50,MALTA (MLA),FR 7114,Expected 17:37,Departure,
-18:00,OSLO GARDERMOEN (OSL),W6 2034,Expected 17:37,Departure,
-18:05,ANTALIA (AYT),P.C.1502,Expected 18:06,Departure,
-18:10,HELSINKI (HEL),AY 1163,Flight delayed,Departure,Delayed
-18:15,TEL AVIV (TLV),LY 5419,Expected 17:56,Departure,
-18:30,TALLINN (TLL),W6 2046,Expected 18:19,Departure,
-18:35,FRANKFURT (FRA),LH 1368,Flight delayed,Departure,Delayed
-18:45,BODRUM (BJV),ENT 4768,Expected 18:26,Departure,
-18:55,MILAN BERGAMO (BGY),FR 6257,,Departure,
-19:00,ZURICH (ZRH),LX 1374,Flight delayed,Departure,Delayed
-19:05,FARO (FAO),FR 2838,Expected 19:32,Departure,
-19:05,ALICANTE (ALC),FR 6356,Expected 18:59,Departure,
-19:15,HERAKLION (HER),ENT 7084,Flight delayed,Departure,Delayed
-19:20,CORFU (CFU),FR 6963,Flight delayed,Departure,Delayed
-19:25,ISTANBUL (IST),TK 1273,,Departure,
-19:35,GDAŃSK (GDN),FR 236,,Departure,
-19:40,BELGRADE (BEG),JU 158,,Departure,
-20:15,GENEVA (GVA),EZS 1501,,Departure,
-20:20,BIRMINGHAM (BHX),FR 1465,,Departure,
+19:00,ZURICH (ZRH),LX 1374,Expected 20:32,Departure,
+19:05,FARO (FAO),FR 2838,Expected 19:26,Departure,
+19:05,ALICANTE (ALC),FR 6356,Landed 18:59,Departure,
+19:15,HERAKLION (HER),ENT 7084,Expected 19:43,Departure,
+19:20,CORFU (CFU),FR 6963,Expected 19:47,Departure,
+19:25,ISTANBUL (IST),TK 1273,Landed 19:02,Departure,
+19:35,GDAŃSK (GDN),FR 236,Landed 19:08,Departure,
+19:40,BELGRADE (BEG),JU 158,Expected 20:09,Departure,
+20:15,GENEVA (GVA),EZS 1501,Expected 20:28,Departure,
+20:20,BIRMINGHAM (BHX),FR 1465,Expected 20:22,Departure,
 20:20,MANCHESTER (MAN),LS 949,Flight delayed,Departure,Delayed
-20:25,NAPLES (NAP),FR 4045,,Departure,
-20:35,BASEL (BSL),EZS 1261,,Departure,
+20:25,NAPLES (NAP),FR 4045,Expected 20:34,Departure,
+20:35,BASEL (BSL),EZS 1261,Flight delayed,Departure,Delayed
 20:35,BRISTOL (BRS),EZY 2937,Flight delayed,Departure,Delayed
-20:35,MANCHESTER (MAN),FR 2141,,Departure,
-20:45,NEWCASTLE (NCL),FR 450,,Departure,
+20:35,MANCHESTER (MAN),FR 2141,Expected 20:18,Departure,
+20:45,NEWCASTLE (NCL),FR 450,Expected 21:10,Departure,
 20:45,WARSAW (WAW),LO 3921,,Departure,
-20:50,MARRAKESH (CANCER),FR 7103,Expected 20:46,Departure,
-21:10,LONDON GATWICK (LGW),EZY 8823,,Departure,
+20:50,MARRAKESH (CANCER),FR 7103,Expected 20:37,Departure,
+21:10,LONDON GATWICK (LGW),EZY 8823,Flight delayed,Departure,Delayed
 21:20,OSLO GARDERMOEN (OSL),DY 1042,,Departure,
-21:20,LISBON (NOV),FR 4024,,Departure,
-21:30,LONDON LUTON (LTN),FR 1813,,Departure,
+21:20,LISBON (NOV),FR 4024,Expected 21:08,Departure,
+21:30,LONDON LUTON (LTN),FR 1813,Flight delayed,Departure,Delayed
 21:50,STOCKHOLM ARLANDA (ARN),FR 4626,,Departure,
 21:55,ROME CIAMPINO (CIA),FR 1470,,Departure,
 22:10,GÃTEBORG LANDVETTER (GOT),FR 7841,,Departure,
