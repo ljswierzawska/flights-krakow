@@ -1,14 +1,4 @@
 Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-21:05,BERGEN (BGO),DY 1028,Expected 20:56,Arrival,
-21:15,MANCHESTER (MAN),EZY 2263,Expected 21:18,Arrival,
-21:20,BELFAST (BFS),EZY 3053,Expected 21:13,Arrival,
-21:20,VENICE TREVISO (TSF),FR 3038,Flight delayed,Arrival,Delayed
-21:35,MALTA (MLA),FR 7114,Flight delayed,Arrival,Delayed
-21:40,SEVILLA (SVQ),YW 8007,Expected 21:38,Arrival,
-21:45,BRUSSELS CHARLEROI (CRL),FR 4934,Expected 21:45,Arrival,
-22:00,DUBLIN (DUB),FR 2023,Expected 22:37,Arrival,
-22:00,GDAŃSK (GDN),FR 236,Expected 22:00,Arrival,
-22:00,LONDON STANSTED (STN),FR 2499,Expected 22:00,Arrival,
 22:30,SHARJAH (SHJ),G9 965,Expected 22:09,Arrival,
 22:30,AMSTERDAM (AMS),KL 1331,Expected 22:30,Arrival,
 22:35,MILAN BERGAMO (BGY),FR 3504,Expected 22:35,Arrival,
@@ -30,16 +20,6 @@ Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,FRANKFURT (FRA),LH 1370,Expected 23:50,Arrival,
 23:50,WARSAW (WAW),LO 3911,Expected 23:50,Arrival,
 23:55,BIRMINGHAM (BHX),FR 5756,Expected 23:55,Arrival,
-21:05,BERGEN (BGO),DY 1028,Expected 20:56,Departure,
-21:15,MANCHESTER (MAN),EZY 2263,Expected 21:18,Departure,
-21:20,BELFAST (BFS),EZY 3053,Expected 21:13,Departure,
-21:20,VENICE TREVISO (TSF),FR 3038,Flight delayed,Departure,Delayed
-21:35,MALTA (MLA),FR 7114,Flight delayed,Departure,Delayed
-21:40,SEVILLA (SVQ),YW 8007,Expected 21:38,Departure,
-21:45,BRUSSELS CHARLEROI (CRL),FR 4934,Expected 21:45,Departure,
-22:00,DUBLIN (DUB),FR 2023,Expected 22:37,Departure,
-22:00,GDAŃSK (GDN),FR 236,Expected 22:00,Departure,
-22:00,LONDON STANSTED (STN),FR 2499,Expected 22:00,Departure,
 22:30,SHARJAH (SHJ),G9 965,Expected 22:09,Departure,
 22:30,AMSTERDAM (AMS),KL 1331,Expected 22:30,Departure,
 22:35,MILAN BERGAMO (BGY),FR 3504,Expected 22:35,Departure,
