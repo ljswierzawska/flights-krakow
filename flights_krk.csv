@@ -1,7 +1,4 @@
 Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-06:10,ANTALIA (AYT),RR 7170,Expected 06:10,Arrival,
-06:55,ABU DHABI (AUH),EY163,Expected 06:55,Arrival,
-06:55,ANTALIA (AYT),XQ 432,Expected 06:55,Arrival,
 08:10,HELSINKI (HEL),AY 1161,Expected 08:10,Arrival,
 08:10,THESSALONIKI (SKG),FR 2778,Expected 08:10,Arrival,
 08:25,COPENHAGEN (CPH),FR 2725,Expected 08:25,Arrival,
@@ -114,9 +111,6 @@ Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:50,RIMINI (RMI),FR 2783,Expected 23:50,Arrival,
 23:50,FRANKFURT (FRA),LH 1370,Expected 23:50,Arrival,
 23:50,WARSAW (WAW),LO 3911,Expected 23:50,Arrival,
-06:10,ANTALIA (AYT),RR 7170,Expected 06:10,Departure,
-06:55,ABU DHABI (AUH),EY163,Expected 06:55,Departure,
-06:55,ANTALIA (AYT),XQ 432,Expected 06:55,Departure,
 08:10,HELSINKI (HEL),AY 1161,Expected 08:10,Departure,
 08:10,THESSALONIKI (SKG),FR 2778,Expected 08:10,Departure,
 08:25,COPENHAGEN (CPH),FR 2725,Expected 08:25,Departure,
