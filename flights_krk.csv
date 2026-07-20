@@ -1,14 +1,5 @@
 Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-00:30,LONDON STANSTED (STN),FR 2434,Flight delayed,Arrival,Delayed
-00:30,BARCELONA (BCN),FR 3049,Expected 00:53,Arrival,
-00:30,MALAGA (AGP),FR 5431,Landed 00:12,Arrival,
-00:35,VALENCIA (VLC),FR 8324,Expected 01:15,Arrival,
-00:45,RIGA (RIX),FR 5429,Flight delayed,Arrival,Delayed
-01:00,CHANIA (CHQ),FR 3052,Expected 01:03,Arrival,
-01:00,RHODES (RHO),FR 7041,Expected 00:50,Arrival,
-01:00,BURGAS (BOJ),FR 8199,Flight delayed,Arrival,Delayed
-01:00,PARIS BEAUVAIS (BVA),FR 8209,Expected 00:48,Arrival,
-06:55,ABU DHABI (AUH),EY163,Expected 06:55,Arrival,
+06:55,ABU DHABI (AUH),EY163,Expected 06:46,Arrival,
 06:55,ANTALIA (AYT),XQ 432,Expected 06:55,Arrival,
 07:35,GÖTEBORG LANDVETTER (GOT),FR 4011,Expected 07:35,Arrival,
 07:50,COPENHAGEN (CPH),FR 2725,Expected 07:50,Arrival,
@@ -150,16 +141,7 @@ Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:45,LOURDES (LDE),FR 2371,Expected 23:45,Arrival,
 23:50,WARSAW (WAW),LO 3911,Expected 23:50,Arrival,
 23:55,MADRID (MAD),FR 5356,Expected 23:55,Arrival,
-00:30,LONDON STANSTED (STN),FR 2434,Flight delayed,Departure,Delayed
-00:30,BARCELONA (BCN),FR 3049,Landed at 00:55,Departure,
-00:30,MALAGA (AGP),FR 5431,Landed 00:12,Departure,
-00:35,VALENCIA (VLC),FR 8324,Expected 01:15,Departure,
-00:45,RIGA (RIX),FR 5429,Flight delayed,Departure,Delayed
-01:00,CHANIA (CHQ),FR 3052,Expected 01:04,Departure,
-01:00,RHODES (RHO),FR 7041,Landed 00:51,Departure,
-01:00,BURGAS (BOJ),FR 8199,Flight delayed,Departure,Delayed
-01:00,PARIS BEAUVAIS (BVA),FR 8209,Landed 00:48,Departure,
-06:55,ABU DHABI (AUH),EY163,Expected 06:55,Departure,
+06:55,ABU DHABI (AUH),EY163,Expected 06:46,Departure,
 06:55,ANTALIA (AYT),XQ 432,Expected 06:55,Departure,
 07:35,GÖTEBORG LANDVETTER (GOT),FR 4011,Expected 07:35,Departure,
 07:50,COPENHAGEN (CPH),FR 2725,Expected 07:50,Departure,
