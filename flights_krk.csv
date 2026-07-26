@@ -1,12 +1,4 @@
 Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-00:30,MALTA (MLA),FR 8795,Expected 01:55,Arrival,
-00:35,MALAGA (AGP),FR 2588,Landed at 00:45,Arrival,
-00:45,STOCKHOLM ARLANDA (ARN),FR 4635,Expected 01:20,Arrival,
-00:50,DUBLIN (DUB),FR 2030,Flight delayed,Arrival,Delayed
-00:55,PARIS BEAUVAIS (BVA),FR 3436,Expected 01:11,Arrival,
-00:55,BIRMINGHAM (BHX),FR 5756,Expected 02:23,Arrival,
-01:00,MILAN BERGAMO (BGY),FR 3535,Expected 01:50,Arrival,
-01:00,ALICANTE (ALC),FR 6365,Expected 02:00,Arrival,
 06:20,PALMA DE MALLORCA (PMI),RR 7240,Expected 06:20,Arrival,
 07:40,TIRANA (TIA),FR 7555,Expected 07:40,Arrival,
 08:05,COPENHAGEN (CPH),FR 2725,Expected 08:05,Arrival,
@@ -145,14 +137,6 @@ Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:35,ROME FUMICINO (FCO),W6 2062,Expected 23:35,Arrival,
 23:50,WARSAW (WAW),LO 3911,Expected 23:50,Arrival,
 23:55,MADRID (MAD),LO 2162,Expected 23:55,Arrival,
-00:30,MALTA (MLA),FR 8795,Expected 01:55,Departure,
-00:35,MALAGA (AGP),FR 2588,Landed at 00:45,Departure,
-00:45,STOCKHOLM ARLANDA (ARN),FR 4635,Expected 01:20,Departure,
-00:50,DUBLIN (DUB),FR 2030,Flight delayed,Departure,Delayed
-00:55,PARIS BEAUVAIS (BVA),FR 3436,Expected 01:11,Departure,
-00:55,BIRMINGHAM (BHX),FR 5756,Expected 02:23,Departure,
-01:00,MILAN BERGAMO (BGY),FR 3535,Expected 01:49,Departure,
-01:00,ALICANTE (ALC),FR 6365,Expected 02:01,Departure,
 06:20,PALMA DE MALLORCA (PMI),RR 7240,Expected 06:20,Departure,
 07:40,TIRANA (TIA),FR 7555,Expected 07:40,Departure,
 08:05,COPENHAGEN (CPH),FR 2725,Expected 08:05,Departure,
