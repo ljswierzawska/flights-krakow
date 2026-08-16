@@ -1,9 +1,9 @@
 Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-06:50,PALMA DE MALLORCA (PMI),RR 7240,Expected 06:50,Arrival,
+06:50,PALMA DE MALLORCA (PMI),RR 7240,Expected 06:04,Arrival,
 07:40,TIRANA (TIA),FR 7555,Expected 07:40,Arrival,
 08:05,COPENHAGEN (CPH),FR 2725,Expected 08:05,Arrival,
 08:10,HELSINKI (HEL),AY 1161,Expected 08:10,Arrival,
-08:25,PARIS (CDG),EJU 4667,Expected 08:25,Arrival,
+08:25,PARIS (CDG),EJU 4667,Canceled,Arrival,Cancelled
 08:30,BARCELONA GIRONA (GRO),FR 8673,Expected 08:30,Arrival,
 08:35,VIENNA (VIE),FR 947,Expected 08:35,Arrival,
 08:40,TEL AVIV (TLV),LO 2112,Expected 08:40,Arrival,
@@ -139,11 +139,11 @@ Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:35,ROME FUMICINO (FCO),W6 2062,Expected 23:35,Arrival,
 23:50,WARSAW (WAW),LO 3911,Expected 23:50,Arrival,
 23:55,MADRID (MAD),LO 2162,Expected 23:55,Arrival,
-06:50,PALMA DE MALLORCA (PMI),RR 7240,Expected 06:50,Departure,
+06:50,PALMA DE MALLORCA (PMI),RR 7240,Expected 06:04,Departure,
 07:40,TIRANA (TIA),FR 7555,Expected 07:40,Departure,
 08:05,COPENHAGEN (CPH),FR 2725,Expected 08:05,Departure,
 08:10,HELSINKI (HEL),AY 1161,Expected 08:10,Departure,
-08:25,PARIS (CDG),EJU 4667,Expected 08:25,Departure,
+08:25,PARIS (CDG),EJU 4667,Canceled,Departure,Cancelled
 08:30,BARCELONA GIRONA (GRO),FR 8673,Expected 08:30,Departure,
 08:35,VIENNA (VIE),FR 947,Expected 08:35,Departure,
 08:40,TEL AVIV (TLV),LO 2112,Expected 08:40,Departure,
