@@ -1,6 +1,4 @@
 Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-01:00,MILAN BERGAMO (BGY),FR 3535,Expected 01:14,Arrival,
-01:00,ALICANTE (ALC),FR 6365,Expected 01:39,Arrival,
 06:50,PALMA DE MALLORCA (PMI),RR 7240,Expected 06:50,Arrival,
 07:40,TIRANA (TIA),FR 7555,Expected 07:40,Arrival,
 08:05,COPENHAGEN (CPH),FR 2725,Expected 08:05,Arrival,
@@ -141,8 +139,6 @@ Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
 23:35,ROME FUMICINO (FCO),W6 2062,Expected 23:35,Arrival,
 23:50,WARSAW (WAW),LO 3911,Expected 23:50,Arrival,
 23:55,MADRID (MAD),LO 2162,Expected 23:55,Arrival,
-01:00,MILAN BERGAMO (BGY),FR 3535,Expected 01:15,Departure,
-01:00,ALICANTE (ALC),FR 6365,Expected 01:39,Departure,
 06:50,PALMA DE MALLORCA (PMI),RR 7240,Expected 06:50,Departure,
 07:40,TIRANA (TIA),FR 7555,Expected 07:40,Departure,
 08:05,COPENHAGEN (CPH),FR 2725,Expected 08:05,Departure,
