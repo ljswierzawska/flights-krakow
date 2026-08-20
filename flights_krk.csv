@@ -1,39 +1,27 @@
 Rozkł.,Direction,Flight Number,Status,Arrival or Departure,Delayed/ Cancelled
-22:15,ROME CIAMPINO (CIA),FR 082,Expected 22:42,Arrival,
-22:30,BOLOGNA (BLQ),FR 3798,Expected 22:24,Arrival,
-22:30,EDINBURGH (EDI),FR 6624,He landed at 22:02,Arrival,
-22:30,AMSTERDAM (AMS),KL 1331,Canceled,Arrival,Cancelled
-22:30,NICE (NCE),W6 2072,Flight delayed,Arrival,Delayed
-22:50,PARIS ORLY (ORY),LO 2152,Expected 22:25,Arrival,
-23:00,LONDON STANSTED (STN),FR 2434,Expected 22:34,Arrival,
-23:05,CATANIA (CTA),FR 2727,Expected 23:23,Arrival,
-23:10,ANTALIA (AYT),FH 753,Expected 22:58,Arrival,
+23:00,LONDON STANSTED (STN),FR 2434,He landed at 22:38,Arrival,
+23:05,CATANIA (CTA),FR 2727,Expected 23:19,Arrival,
+23:10,ANTALIA (AYT),FH 753,He landed at 22:51,Arrival,
 23:30,DUBLIN (DUB),FR 2030,Expected 00:06,Arrival,
-23:30,MUNICH (MUC),LH 1626,Expected 23:30,Arrival,
-23:30,BERGEN (BGO),W6 2036,Expected 23:30,Arrival,
+23:30,MUNICH (MUC),LH 1626,Expected 23:33,Arrival,
+23:30,BERGEN (BGO),W6 2036,Expected 23:34,Arrival,
 23:30,MILAN MALPENSA (MXP),W6 2068,Flight delayed,Arrival,Delayed
-23:30,MALAGA (AGP),W6 2074,Expected 01:10,Arrival,
+23:30,MALAGA (AGP),W6 2074,Expected 01:08,Arrival,
 23:30,VALENCIA (VLC),W6 2080,Flight delayed,Arrival,Delayed
-23:35,ROME FUMICINO (FCO),W6 2062,Flight delayed,Arrival,Delayed
+23:35,RZYM FIUMICINO (FCO),W6 2062,Flight delayed,Arrival,Delayed
 23:45,OSLO TORP (TRF),FR 6217,Expected 23:51,Arrival,
-23:50,FRANKFURT (FRA),LH 1370,Expected 23:49,Arrival,
-23:55,MADRID (MAD),LO 2162,Expected 00:12,Arrival,
-22:15,ROME CIAMPINO (CIA),FR 082,Expected 22:42,Departure,
-22:30,BOLOGNA (BLQ),FR 3798,Expected 22:24,Departure,
-22:30,EDINBURGH (EDI),FR 6624,Wylądował 22:02,Departure,
-22:30,AMSTERDAM (AMS),KL 1331,Canceled,Departure,Cancelled
-22:30,NICE (NCE),W6 2072,Flight delayed,Departure,Delayed
-22:50,PARIS ORLY (ORY),LO 2152,Expected 22:25,Departure,
-23:00,LONDON STANSTED (STN),FR 2434,Expected 22:34,Departure,
-23:05,CATANIA (CTA),FR 2727,Expected 23:23,Departure,
-23:10,ANTALIA (AYT),FH 753,Expected 22:58,Departure,
-23:30,DUBLIN (DUB),FR 2030,Expected 00:06,Departure,
-23:30,MUNICH (MUC),LH 1626,Expected 23:30,Departure,
-23:30,BERGEN (BGO),W6 2036,Expected 23:30,Departure,
+23:50,FRANKFURT (FRA),LH 1370,Expected 23:54,Arrival,
+23:55,MADRID (MAD),LO 2162,Expected 00:11,Arrival,
+23:00,LONDON STANSTED (STN),FR 2434,He landed at 22:38,Departure,
+23:05,CATANIA (CTA),FR 2727,Expected 23:19,Departure,
+23:10,ANTALIA (AYT),FH 753,He landed at 22:51,Departure,
+23:30,DUBLIN (DUB),FR 2030,Oczekiwany 00:06,Departure,
+23:30,MUNICH (MUC),LH 1626,Expected 23:33,Departure,
+23:30,BERGEN (BGO),W6 2036,Expected 23:34,Departure,
 23:30,MILAN MALPENSA (MXP),W6 2068,Flight delayed,Departure,Delayed
-23:30,MALAGA (AGP),W6 2074,Expected 01:10,Departure,
+23:30,MALAGA (AGP),W6 2074,Expected 01:08,Departure,
 23:30,VALENCIA (VLC),W6 2080,Flight delayed,Departure,Delayed
-23:35,ROME FUMICINO (FCO),W6 2062,Lot opóźniony,Departure,
-23:45,OSLO TORP (TRF),FR 6217,Oczekiwany 23:51,Departure,
-23:50,FRANKFURT (FRA),LH 1370,Oczekiwany 23:49,Departure,
-23:55,MADRYT (MAD),LO 2162,Expected 00:12,Departure,
+23:35,ROME FUMICINO (FCO),W6 2062,Flight delayed,Departure,Delayed
+23:45,OSLO TORP (TRF),FR 6217,Expected 23:51,Departure,
+23:50,FRANKFURT (FRA),LH 1370,Expected 23:54,Departure,
+23:55,MADRID (MAD),LO 2162,Expected 00:11,Departure,
